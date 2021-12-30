@@ -6,6 +6,7 @@ h1
 body
 {
 	background-image: url("https://th.bing.com/th/id/OIP.WXxSNOIrCnfANISrDmQ9LgHaE8?pid=ImgDet&rs=1");
+	background-size: contain;
 }
 
 #carte
